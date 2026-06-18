@@ -11,6 +11,8 @@
 ![OOP](https://img.shields.io/badge/Focus-OOP-orange?style=flat-square)
 ![TOC](https://img.shields.io/badge/Focus-Theory%20of%20Computation-purple?style=flat-square)
 
+kho lưu trữ này được dịch từ nguồn: https://github.com/manishkumar8312/CS-Fundamentals
+
 Kho lưu trữ này chứa một bộ sưu tập có cấu trúc và toàn diện về các **kiến thức nền tảng cốt lõi của Khoa học Máy tính**, được thiết kế để xây dựng hiểu biết sâu sắc về mặt khái niệm phục vụ cho **các cuộc phỏng vấn kỹ thuật, kỳ thi học thuật, chuẩn bị tuyển dụng và phát triển phần mềm**.
 
 Đây là tài liệu tham khảo tổng hợp cho các môn học Khoa học Máy tính quan trọng thường được yêu cầu đối với **sinh viên ngành Khoa học và Kỹ thuật Máy tính, nhà phát triển phần mềm và các ứng viên phỏng vấn**.
@@ -195,6 +197,3 @@ Tài liệu này chú trọng vào:
 
 ---
 
-## ⭐ Ủng hộ
-
-Nếu kho lưu trữ này giúp ích cho quá trình học tập của bạn, hãy tặng dự án một ngôi sao ⭐ để ủng hộ tác giả!
