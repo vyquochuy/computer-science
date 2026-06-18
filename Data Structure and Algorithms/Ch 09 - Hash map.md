@@ -1,4 +1,4 @@
-# Chương 9: Bảng băm (Hashing)
+# Chương 9: Bảng băm (Hash map)
 
 Cấu trúc Bảng băm cung cấp các thao tác chèn, xóa và tìm kiếm phần tử với tốc độ thời gian tiệm cận hằng số trung bình đạt $O(1)$ bằng cách ánh xạ các khóa dữ liệu (keys) thành các chỉ số mảng (indices) thông qua một Hàm băm (Hash function). Chương học này sẽ trình bày chi tiết về hàm băm, các chiến lược xử lý xung đột băm, hệ số tải (load factor), kỹ thuật tái băm (rehashing), cách cài đặt cấu trúc Hash Map, Hash Set và các ứng dụng kinh điển của chúng.
 
